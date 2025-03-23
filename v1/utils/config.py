@@ -1,0 +1,5 @@
+DATASET_PATH = "../data/hotel_bookings.csv"
+CLEANED_DATA_PATH = "../data/cleaned_data.csv"
+FAISS_INDEX_PATH = "../data/faiss_index.bin"
+MAPPINGS_PATH = "../data/faiss_mappings.csv"
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"

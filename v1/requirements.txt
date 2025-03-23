@@ -1,0 +1,6 @@
+pandas
+matplotlib
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
