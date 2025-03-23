@@ -1,0 +1,1 @@
+v1/data/faiss_index.bin filter=lfs diff=lfs merge=lfs -text
